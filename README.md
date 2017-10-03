@@ -1,2 +1,3 @@
-# blank
-blank-repository-shell
+Kole Earhart
+Cosc 2030
+Lab 3
